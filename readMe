@@ -1,0 +1,16 @@
+It's a Data Science practice project with Python
+
+--------------Breast cancer prediction------------------------------------------------ 
+--------------------------------------------------------------------------------------
+
+You are a data scientist working for a data analytics firm.  
+                         
+Your firm has tasked you to to create a classifier that can help diagnose patients.
+it shoul classify a tumor as malignant or benign given its characterestics.
+you will be using the Breast Cancer Wisconsin (Diagnostic) Dataset from scikit-learn.
+
+Let's get started by downloading the data, then read through it to understand how
+it could be handled. In a second phase, we'll start answering some basic questions to 
+fully understand the data and finally choose a model to classify cancer tummors in two
+classes : "Malignant" (positive class) and "benign" (negative class).
+
